@@ -109,7 +109,7 @@ describe('my server', () => {
 -----
 # links to the lab 
 
-### link to Heruko : https://dashboard.heroku.com/apps/ahmadha-basic-express-serv/deploy/github 
+### link to Heruko : https://ahmadha-basic-express-serv.herokuapp.com/
 
 ### link to gitHub action : https://github.com/ahmadhamzh/basic-express-server/actions 
 
